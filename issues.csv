@@ -1,6 +1,6 @@
-name,type
-Child Pornography,Issue
-IPv6,Issue
-Broadband,Issue
-DNS Security,Issue
-Internet Gambling,Issue
+name,type,description
+DNS Security,Issue,"The Domain Name System (DNS) is a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates easily memorized domain names to the numerical IP addresses needed for the purpose of locating computer services and devices worldwide. The Domain Name System is an essential component of the functionality of the Internet."
+IPv6 Adoption,Issue,"Internet Protocol version 6 (IPv6) is the latest version of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion."
+Broadband Promotion,Issue,"The term broadband includes a broad range of technologies, all of which provide higher data rate access to the Internet. These technologies use wires or fiber optic cables in contrast to wireless broadband described later."
+Child Pornography,Issue,"Child pornography is pornography that exploits children for sexual gratification. It may be produced with the direct involvement or sexual assault of a child (also known as child sexual abuse images) or it may be simulated child pornography. Abuse of the child occurs during thesexual acts which are recorded in the production of child pornography. Child pornography may use a variety of media, includingwritings, magazines, photos, sculpture, drawing, cartoon, painting, animation, sound recording, film, video, and video games."
+Internet Gambling,Issue,"Online gambling, also known as Internet gambling and iGambling, is a general term for gambling using the Internet."

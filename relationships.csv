@@ -1,9 +1,801 @@
 name1,relationship,name2
-The Organisation for Economic Co-operation and Development (OECD),ADDRESSES,Child Pornography
-National Center for Missing & Exploited Children (NCMEC),ADDRESSES,Child Pornography
+RIPE 59,ADDRESSES,DNS Security
+DNSSEC for Everybody: A Beginner's Guide,ADDRESSES,DNS Security
+DNSSEC Deployment Initiative,ADDRESSES,DNS Security
+DNSSEC at FOSE 2012,ADDRESSES,DNS Security
+Securing the Federal Government’s Domain Name System Infrastructure,ADDRESSES,DNS Security
+DNSSEC Policy and Practice Statement,ADDRESSES,DNS Security
+DNS Security Extensions (Verisign),ADDRESSES,DNS Security
+"DNSSEC: The Protocol, Deployment, and a Bit of Development",ADDRESSES,DNS Security
+DNS Security and Stability Analysis Working Group (DSSA) Final Report,ADDRESSES,DNS Security
+DNS Security and Stability Analysis Working Group,ADDRESSES,DNS Security
+Worldwide Infrastructure Security Report,ADDRESSES,DNS Security
+"DNS Best Practices, Network Protections, and Attack Identification",ADDRESSES,DNS Security
+Domain Name System (DNS) Security Reference Architecture,ADDRESSES,DNS Security
+Challenges and Solutions for DNS Security in IPv6,ADDRESSES,DNS Security
+Retrofitting Security into Network Protocols: The Case of DNSSEC,ADDRESSES,DNS Security
+Evaluating the Security of a DNS Query Obfuscation Scheme for Private Web Surfing,ADDRESSES,DNS Security
+"Commerce Department, ICANN and VeriSign Deploy New Technology to Enhance the Security and Stability of the Internet",ADDRESSES,DNS Security
+A Major Milestone for Internet Security,ADDRESSES,DNS Security
+7 Things You Should Know About DNSSEC,ADDRESSES,DNS Security
+Deploying Cryptography in Internet-Scale Systems: A Case Study on DNSSEC,ADDRESSES,DNS Security
+DNSSEC HOWTO: a tutorial in disguise,ADDRESSES,DNS Security
+RFC 2535 - Domain Name System Security Extensions,ADDRESSES,DNS Security
+RFC 3833 - Threat Analysis of the Domain Name System (DNS),ADDRESSES,DNS Security
+RFC 4033 - DNS Security Introduction and Requirements,ADDRESSES,DNS Security
+RFC 4034 - Resource Records for the DNS Security Extensions,ADDRESSES,DNS Security
+RFC 4035 - Protocol Modifications for the DNS Security Extensions,ADDRESSES,DNS Security
+RFC 4398 - Storing Certificates in the Domain Name System (DNS),ADDRESSES,DNS Security
+RFC 4470 - Minimally Covering NSEC Records and DNSSEC On-line Signing,ADDRESSES,DNS Security
+RFC 4509 - Use of SHA-256 in DNSSEC Delegation Signer (DS) Resource Records (RRs),ADDRESSES,DNS Security
+RFC 5155 - DNS Security (DNSSEC) Hashed Authenticated Denial of Existence,ADDRESSES,DNS Security
+RFC 6781 - DNSSEC Operational Practices Version 2,ADDRESSES,DNS Security
+Google Public DNS,ADDRESSES,DNS Security
+BIND,ADDRESSES,DNS Security
+ldns,ADDRESSES,DNS Security
+DNSSEC Tools,ADDRESSES,DNS Security
+Phreebird,ADDRESSES,DNS Security
+Zone Key Tool,ADDRESSES,DNS Security
+Unbound,ADDRESSES,DNS Security
+GbDns,ADDRESSES,DNS Security
+Trust Anchors and Keys,ADDRESSES,DNS Security
+CADR,ADDRESSES,DNS Security
+DLV Test Zones,ADDRESSES,DNS Security
+DNSCheck,ADDRESSES,DNS Security
+DNSSEC Debugger,ADDRESSES,DNS Security
+DNSSEC Key Management Tools,ADDRESSES,DNS Security
+OpenDNSSEC,ADDRESSES,DNS Security
+National Institute of Science and Technology,ADDRESSES,DNS Security
+VeriSign,ADDRESSES,DNS Security
+Security and Stability Advisory Commission,ADDRESSES,DNS Security
+"Communications Security, Reliability and Interoperability Council at the Federal Communications Commission",ADDRESSES,DNS Security
+Good Practices Guide for Deploying DNSSEC,ADDRESSES,DNS Security
+Root DNSSEC: Information about DNSSEC for the Root Zone,ADDRESSES,DNS Security
+Domain Name System Security (DNSSEC) Algorithm Numbers,ADDRESSES,DNS Security
+DNSKEY Flags,ADDRESSES,DNS Security
+"Resilience Features in Communication Networks: IPv6, DNSSEC and MPLS",ADDRESSES,DNS Security
+Study on the Costs of DNSSEC Deployment,ADDRESSES,DNS Security
+Test Report: DNSSEC Impact on Broadband Routers and Firewalls,ADDRESSES,DNS Security
+DNSSEC Deployment Initiative,ADDRESSES,DNS Security
+White House Office of Management and Budget,ADDRESSES,DNS Security
+VeriSign,ADDRESSES,DNS Security
+DNS Security and Stability Analysis Working Group,ADDRESSES,DNS Security
+At-Large Advisory Committee,ADDRESSES,DNS Security
+Country Code Names Supporting Organization,ADDRESSES,DNS Security
+Generic Names Supporting Organization,ADDRESSES,DNS Security
+Number Resource Organization,ADDRESSES,DNS Security
+Arbor Networks,ADDRESSES,DNS Security
+U.S. Department of Homeland Security,ADDRESSES,DNS Security
+Internet Society,ADDRESSES,DNS Security
+Hosnieh Rafiee,ADDRESSES,DNS Security
+Martin von Löwis,ADDRESSES,DNS Security
+Christoph Meinel,ADDRESSES,DNS Security
+Amir Herzberg,ADDRESSES,DNS Security
+Haya Shulman,ADDRESSES,DNS Security
+Dominik Herrmann,ADDRESSES,DNS Security
+Max Maaß,ADDRESSES,DNS Security
+Hannes Federrath,ADDRESSES,DNS Security
+U.S. Department of Commerce,ADDRESSES,DNS Security
+White House Office of Science and Technology Policy,ADDRESSES,DNS Security
+Educause,ADDRESSES,DNS Security
+Hao Yang ,ADDRESSES,DNS Security
+Lixia Zhang,ADDRESSES,DNS Security
+Dan Massey,ADDRESSES,DNS Security
+Eric Osterweil,ADDRESSES,DNS Security
+Olaf Kolkman,ADDRESSES,DNS Security
+Internet Engineering Task Force,ADDRESSES,DNS Security
+IETF Network Working Group,ADDRESSES,DNS Security
+"Google, Inc.",ADDRESSES,DNS Security
+Internet Systems Consortium,ADDRESSES,DNS Security
+NLnet Labs,ADDRESSES,DNS Security
+Dan Kaminsky,ADDRESSES,DNS Security
+Internet Assigned Numbers Authority,ADDRESSES,DNS Security
+Bill Manning,ADDRESSES,DNS Security
+Domain Name System Operations Analysis and Research Center,ADDRESSES,DNS Security
+.SE The Internet Infrastructure Foundation ,ADDRESSES,DNS Security
+Jakob Schlyter,ADDRESSES,DNS Security
+VeriSign Labs,ADDRESSES,DNS Security
+Réseaux IP Européens Network Coordination Centre,ADDRESSES,DNS Security
+European Union Agency for Network and Information Security,ADDRESSES,DNS Security
+Internet Corporation for Assigned Names and Numbers,ADDRESSES,DNS Security
+VeriSign,ADDRESSES,DNS Security
+Nominet,ADDRESSES,DNS Security
+Core Competence,ADDRESSES,DNS Security
+David Lawrence,ADDRESSES,DNS Security
+Chris Griffiths,ADDRESSES,DNS Security
+Wayne Thayer,ADDRESSES,DNS Security
+CP80 Foundation,ADDRESSES,Child Pornography
+Dallas Children's Advocacy Center,ADDRESSES,Child Pornography
+Korea Communications Commission,ADDRESSES,Child Pornography
+The Organisation for Economic Co-operation and Development,ADDRESSES,Child Pornography
+Asia-Pacific Economic Cooperation,ADDRESSES,Child Pornography
+International Centre for Missing & Exploited Children,ADDRESSES,Child Pornography
+The Koons Family Institute,ADDRESSES,Child Pornography
+The Woods Chartiable Foundation,ADDRESSES,Child Pornography
+The Eli and Edythe Broad Foundation,ADDRESSES,Child Pornography
+Microsoft Corporation,ADDRESSES,Child Pornography
+National Center for Missing & Exploited Children,ADDRESSES,Child Pornography
 Yaman Akdeniz,ADDRESSES,Child Pornography
+Melissa Wells,ADDRESSES,Child Pornography
+David Finkelhor,ADDRESSES,Child Pornography
 Janis Wolak,ADDRESSES,Child Pornography
+Kimberly J. Mitchell,ADDRESSES,Child Pornography
+Ethel Quayle,ADDRESSES,Child Pornography
+Max Taylor,ADDRESSES,Child Pornography
+Bernadette H. Schella,ADDRESSES,Child Pornography
+Miguel Vargas Martin,ADDRESSES,Child Pornography
+Patrick C.K. Hung,ADDRESSES,Child Pornography
+Luis Rueda,ADDRESSES,Child Pornography
+Australian Institute of Criminology,ADDRESSES,Child Pornography
+Australian High Tech Crime Centre,ADDRESSES,Child Pornography
+Cheryl B. Preston,ADDRESSES,Child Pornography
+Scott R. Rasmussen,ADDRESSES,Child Pornography
+Christopher R. Reed,ADDRESSES,Child Pornography
+Philip Jenkins,ADDRESSES,Child Pornography
+Andrew G. Oosterbaan,ADDRESSES,Child Pornography
+Richard Wortley,ADDRESSES,Child Pornography
+Stephen Smallbone,ADDRESSES,Child Pornography
+Julian Fantino,ADDRESSES,Child Pornography
+Cortney Lollar,ADDRESSES,Child Pornography
+Europol,ADDRESSES,Child Pornography
+Dr. Weixiao Wei,ADDRESSES,Child Pornography
+Nominet Trust,ADDRESSES,Child Pornography
+InHope Foundation,ADDRESSES,Child Pornography
+Child Rights Connect,ADDRESSES,Child Pornography
+United Nations General Assembly,ADDRESSES,Child Pornography
+International Criminal Police Organization (INTERPOL),ADDRESSES,Child Pornography
+World Wide Web Consortium,ADDRESSES,Child Pornography
+United States Department of Homeland Security Immigrations and Customs Enforcement,ADDRESSES,Child Pornography
+Hague Conference on Private International Law,ADDRESSES,Child Pornography
+Friend Media Technology Systems Ltd,ADDRESSES,Child Pornography
+Danah Boyd,ADDRESSES,Child Pornography
+Sharon Cooper,ADDRESSES,Child Pornography
+Jeff Koons,ADDRESSES,Child Pornography
+The Koons Family Institute on International Law & Policy,ADDRESSES,Child Pornography
+Children’s Charities’ Coalition on Internet Safety,ADDRESSES,Child Pornography
+United Nations Committee on the Rights of the Child,ADDRESSES,Child Pornography
+Thorn Foundation,ADDRESSES,Child Pornography
+Internet Watch Foundation,ADDRESSES,Child Pornography
 CP80 Internet Zoning Initiative,ADDRESSES,Child Pornography
+Crimes Against Children Conference,ADDRESSES,Child Pornography
+APEC-OECD Joint Symposium on Initiatives among Member Economies Promoting Safer Internet Environment for Children,ADDRESSES,Child Pornography
+Seoul Ministerial Meeting on the Future of the Internet Economy,ADDRESSES,Child Pornography
+Virtual Global Task Force,ADDRESSES,Child Pornography
+International Child Abduction Attorney Network,ADDRESSES,Child Pornography
+Campaign Against International Child Abduction,ADDRESSES,Child Pornography
+Financial Coalition Against Child Pornography,ADDRESSES,Child Pornography
+"End Child Prostitution, Child Pornography and Trafficking of Children for Sexual Purposes",ADDRESSES,Child Pornography
+InHope,ADDRESSES,Child Pornography
+GSMA Mobile Alliance Against Child Sexual Abuse Content,ADDRESSES,Child Pornography
+The Global Initiative against Transnational Organized Crime,ADDRESSES,Child Pornography
+European Financial Coalition,ADDRESSES,Child Pornography
+European Cybercrime Centre at Europol,ADDRESSES,Child Pornography
+Global Alliance against Child Sexual Abuse Online,ADDRESSES,Child Pornography
+Microsoft Digital Crimes Unit (DCU),ADDRESSES,Child Pornography
+Technology Task Force (DCU and Microsoft Research),ADDRESSES,Child Pornography
+Project VIC,ADDRESSES,Child Pornography
+ForceForge,ADDRESSES,Child Pornography
+29th Meeting of the INTERPOL Specialist Group on Crimes against Children,ADDRESSES,Child Pornography
+OECD Seoul Declaration for the Future of the Internet Economy,ADDRESSES,Child Pornography
+Recommendations of the Virtual Global Task Force,ADDRESSES,Child Pornography
+"Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography – a protocol to the Convention on the Rights of the Child",ADDRESSES,Child Pornography
+Optional Protocol to the Convention on the Rights of the Child on a Communications Procedure,ADDRESSES,Child Pornography
+The Protection of Children Online: Report on risks faced by children online and policies to protect them,ADDRESSES,Child Pornography
+United Nations Convention on the Rights of the Child,ADDRESSES,Child Pornography
 AG-2011-RES-05 - Combating online sexual exploitation of children through a legislative global engagement strategy,ADDRESSES,Child Pornography
+AG-2011-RES-08 - Promoting victim-centric management of child abuse material at the national level,ADDRESSES,Child Pornography
+AG-2010-RES-05 - Child Alert Systems to assist safe recovery of abducted children,ADDRESSES,Child Pornography
+"AG-2009-RES-05 - Combating sexual exploitation of children on the Internet using all available technical solutions, including access-blocking by INTERPOL member countries",ADDRESSES,Child Pornography
+AG-2005-RES-09 - Addressing WebSites selling Child Pornography and Trafficking of Children on Internet,ADDRESSES,Child Pornography
+Hague Convention on the Civil Aspects of International Child Abduction,ADDRESSES,Child Pornography
+Report on the APEC-OECD Joint Symposium on Initiatives Among Member Economies Promoting Safer Internet Environment for Children,ADDRESSES,Child Pornography
+Internet Child Pornography and the Law: National and International Responses,ADDRESSES,Child Pornography
+Child abuse material and the Internet: Cyberpsychology of online child related sex offending,ADDRESSES,Child Pornography
+Defining Child Pornography: Law Enforcement Dilemmas in Investigations of Internet Child Pornography Possession,ADDRESSES,Child Pornography
+Child Pornography: An Internet Crime,ADDRESSES,Child Pornography
+Cyber child pornography: A review paper of the social and legal issues and remedies—and a proposed technological solution,ADDRESSES,Child Pornography
+A Typology of Online Child Pornography Offending ,ADDRESSES,Child Pornography
+Chapter 13: Governance of Pornography and Child Pornography on the Global Internet: A Multi-Layered Approach.,ADDRESSES,Child Pornography
+Children and Internet Pornography: The Nature of the Problem and the Technologies for a Solution,ADDRESSES,Child Pornography
+Beyond Tolerance: Child Pornography on the Internet,ADDRESSES,Child Pornography
+Report to Law Enforcement Projects Subgroup (LEPSG) on the “Global Symposium for Examining the Relationship Between Online and Offline Offenses and Preventing the Sexual Exploitation of Children”,ADDRESSES,Child Pornography
 Child Pornography on the Internet,ADDRESSES,Child Pornography
-RFC 3315 - Dynamic Host Configuration Protocol for IPv6 (DHCPv6),ADDRESSES,IPv6
+Child Pornography On the Internet: New Challenges Require New Ideas,ADDRESSES,Child Pornography
+Virtual Global Taskforce Environmental Scan 2012,ADDRESSES,Child Pornography
+Child Pornography and the Restitution Revolution,ADDRESSES,Child Pornography
+"First Year Report, European Cybercrime Center (EC3)",ADDRESSES,Child Pornography
+Report of the Global Alliance against Child Sexual Abuse Online,ADDRESSES,Child Pornography
+Preliminary analysis into commercial child sexual abuse material distributor accepting Bitcoin payment,ADDRESSES,Child Pornography
+"Online Child Sexual Abuse Content: The development of a comprehensive, transferable international internet notice and takedown system",ADDRESSES,Child Pornography
+GSMA-INHOPE Guide to Establishing an Internet Hotline,ADDRESSES,Child Pornography
+Child Rights Connect Annual Report 2013,ADDRESSES,Child Pornography
+Wanted: Technology Breakthroughs to Fight Child Sex Trafficking,ADDRESSES,Child Pornography
+Joint Report on Online Child Protection: Combatting Child Pornography on the Internet,ADDRESSES,Child Pornography
+Video Image Classification Standard,ADDRESSES,Child Pornography
+Platform for Internet Content Selections,ADDRESSES,Child Pornography
+"“Don’t You Forget About Me"": A YouTube Channel for Missing Children",ADDRESSES,Child Pornography
+URL Initiative,ADDRESSES,Child Pornography
+PhotoDNA,ADDRESSES,Child Pornography
+Hash Value Sharing Initiative,ADDRESSES,Child Pornography
+Microsoft Child Exploitation Tracking System,ADDRESSES,Child Pornography
+Operation Predator,ADDRESSES,Child Pornography
+International Child Abduction Database,ADDRESSES,Child Pornography
+CyberTipline,ADDRESSES,Child Pornography
+F1,ADDRESSES,Child Pornography
+InHope Illegal Content Reporting,ADDRESSES,Child Pornography
+Innovations in the Fight Against Human Trafficking Perspectives and Proposals,ADDRESSES,Child Pornography
+Alliance for Affordable Internet,ADDRESSES,Broadband Promotion
+Access,ADDRESSES,Broadband Promotion
+Inveneo - Broadband for Good,ADDRESSES,Broadband Promotion
+NetHope,ADDRESSES,Broadband Promotion
+Global Broadband and Innovations ,ADDRESSES,Broadband Promotion
+Telecentre.org,ADDRESSES,Broadband Promotion
+The Broadband Commission for Digital Development,ADDRESSES,Broadband Promotion
+Wireless Broadband Alliance,ADDRESSES,Broadband Promotion
+"Cisco Systems, Inc",ADDRESSES,Broadband Promotion
+"United Nations Educational, Scientific and Cultural Organization",ADDRESSES,Broadband Promotion
+International Telecommunications Union,ADDRESSES,Broadband Promotion
+National Telecommunications & Information Administration,ADDRESSES,Broadband Promotion
+Allied Fiber,ADDRESSES,Broadband Promotion
+Google Fiber,ADDRESSES,Broadband Promotion
+Broadband Leadership Summit,ADDRESSES,Broadband Promotion
+Broadband World Forum,ADDRESSES,Broadband Promotion
+Broadband Traffic Management,ADDRESSES,Broadband Promotion
+Wi-Fi Global Congress,ADDRESSES,Broadband Promotion
+WBA Wi-Fi Industry Awards,ADDRESSES,Broadband Promotion
+"Wi-Fi, Small Cells & Venue Connectivity Summit",ADDRESSES,Broadband Promotion
+LTE North America 2014,ADDRESSES,Broadband Promotion
+Public Safety Broadband Summit ,ADDRESSES,Broadband Promotion
+International Broadband Quality: How’s that Policy Working? ,ADDRESSES,Broadband Promotion
+World Telecommunication Policy Forum,ADDRESSES,Broadband Promotion
+Next Generation Connectivity: A Review of broadband Internet transitions and policy from around the world.,ADDRESSES,Broadband Promotion
+"“Planning for Progress - Why National Broadband Plans Matter” ,",ADDRESSES,Broadband Promotion
+Information and Communications for Development 2009: Extending Reach and Increasing Impact,ADDRESSES,Broadband Promotion
+National Broadband Plans Show a Diversity of Methods but a Unity of Purpose,ADDRESSES,Broadband Promotion
+"World Economic Forum Global Information Technology Report 2013, Chapter 1.3  by Cisco. ",ADDRESSES,Broadband Promotion
+Universal Service Policies in the Context of National Broadband Plans,ADDRESSES,Broadband Promotion
+Measuring the Information Society,ADDRESSES,Broadband Promotion
+Partnerships for Broadband: Innovative public private partnerships will support the expansion of broadband networks,ADDRESSES,Broadband Promotion
+Building Broadband: Strategies and Policies for the Developing World,ADDRESSES,Broadband Promotion
+Confronting the Crisis: ICT Plans for Economic Growth,ADDRESSES,Broadband Promotion
+World Telecommunications Development Report: Reinventing Telecoms ,ADDRESSES,Broadband Promotion
+Building a 21st Century Broadband Superhighway,ADDRESSES,Broadband Promotion
+Sixth Broadband Deployment Report,ADDRESSES,Broadband Promotion
+The Global Speedtest,ADDRESSES,Broadband Promotion
+Robert D. Atkinson,ADDRESSES,Broadband Promotion
+Dr. Hamadoun I. Toure ,ADDRESSES,Broadband Promotion
+John Chambers,ADDRESSES,Broadband Promotion
+Susan Crawford,ADDRESSES,Broadband Promotion
+Hans Vestberg,ADDRESSES,Broadband Promotion
+Irina Bokova ,ADDRESSES,Broadband Promotion
+Suvi Linden,ADDRESSES,Broadband Promotion
+Helen Clark,ADDRESSES,Broadband Promotion
+Phumzile Mlambo-Ngcuka,ADDRESSES,Broadband Promotion
+Reza Jafari,ADDRESSES,Broadband Promotion
+Hessa Al Jabar,ADDRESSES,Broadband Promotion
+Saad Bin Dhafer,ADDRESSES,Broadband Promotion
+Amir Dossal,ADDRESSES,Broadband Promotion
+Kathy Calvin,ADDRESSES,Broadband Promotion
+Michael Combes,ADDRESSES,Broadband Promotion
+Julius Genachowski,ADDRESSES,Broadband Promotion
+Jose Manuel Do Rosario Toscano,ADDRESSES,Broadband Promotion
+Paul Jacobs,ADDRESSES,Broadband Promotion
+Paul Mitchell,ADDRESSES,Broadband Promotion
+Kim Seang-tae,ADDRESSES,Broadband Promotion
+Speranza Ndege,ADDRESSES,Broadband Promotion
+Anne Bouverot,ADDRESSES,Broadband Promotion
+Emma Dawson,ADDRESSES,Broadband Promotion
+Chat Garcia-Ramilo,ADDRESSES,Broadband Promotion
+Nancy Hafkin,ADDRESSES,Broadband Promotion
+Omobola Johnson,ADDRESSES,Broadband Promotion
+Sonia Jorge,ADDRESSES,Broadband Promotion
+Shrikant Shenwai,ADDRESSES,Broadband Promotion
+Doyle Gallegos,ADDRESSES,Broadband Promotion
+Commonwealth Telecommunications Organisation,ADDRESSES,Broadband Promotion
+A4AI Affordability Report,ADDRESSES,Broadband Promotion
+The TelCo Action Plan,ADDRESSES,Broadband Promotion
+World Summit on the Information Society in Tunis,ADDRESSES,Broadband Promotion
+Information Technology & Innovation Foundation,ADDRESSES,Broadband Promotion
+Internet Corporation for Assigned Names and Numbers,ADDRESSES,DNS Security
+"Google, Inc.",ADDRESSES,DNS Security
+Internet Engineering Task Force,ADDRESSES,DNS Security
+Internet Society,ADDRESSES,DNS Security
+Internet Assigned Numbers Authority,ADDRESSES,DNS Security
+IPv6 Consumer Guide: All About IPv6,ADDRESSES,IPv6 Adoption
+IPv6 For All: A Guide for IPv6 Usage and Application in Different Environments,ADDRESSES,IPv6 Adoption
+Operational Guidance for IPv6 Deployment in IPv4 Sites Using the Intra-Site Automatic Tunnel Addressing Protocol (ISATAP),ADDRESSES,IPv6 Adoption
+Transition from IPv4 to IPv6: A state-of-the-art survey,ADDRESSES,IPv6 Adoption
+Peng Wu,ADDRESSES,IPv6 Adoption
+Understanding IPv6 populations in the wild,ADDRESSES,IPv6 Adoption
+Manish Karir,ADDRESSES,IPv6 Adoption
+Geoff Huston,ADDRESSES,IPv6 Adoption
+George Michaelson,ADDRESSES,IPv6 Adoption
+Michael Bailey,ADDRESSES,IPv6 Adoption
+A Comparison of Public Policy Approaches to the IPv4-IPv6 Transition,ADDRESSES,IPv6 Adoption
+Lee Howard,ADDRESSES,IPv6 Adoption
+Jesse Horton Sowell,ADDRESSES,IPv6 Adoption
+Framework to Counter Challenges of Transition to IPv6,ADDRESSES,IPv6 Adoption
+Ashish Birla,ADDRESSES,IPv6 Adoption
+Internet Addressing: Measuring Deployment of IPv6,ADDRESSES,IPv6 Adoption
+The Organisation for Economic Co-operation and Development,ADDRESSES,IPv6 Adoption
+The Internet in Transition: The State of the Transition to IPv6 in Today's Internet and Measures to Support the Continued Use of IPv4,ADDRESSES,IPv6 Adoption
+IPv6 Address Allocation and Assignment Policy,ADDRESSES,IPv6 Adoption
+RFC 6180 - Guidelines for Using IPv6 Transition Mechanisms during IPv6 Deployment,ADDRESSES,IPv6 Adoption
+Internet Assigned Numbers Authority (IANA) Policy For Allocation of IPv6 Blocks to Regional Internet Registries,ADDRESSES,IPv6 Adoption
+Internet Assigned Numbers Authority (IANA) Policy for Allocation of ASN Blocks to Regional Internet Registries,ADDRESSES,IPv6 Adoption
+Global Policy for Post Exhaustion IPv4 Allocation Mechanisms by the IANA,ADDRESSES,IPv6 Adoption
+ICP-2: Criteria for Establishment of New Regional Internet Registries,ADDRESSES,IPv6 Adoption
+Internet Address Space: Economic Considerations in the Management of IPv4 and in the Deployment of IPv6,ADDRESSES,IPv6 Adoption
+RFC 3315 -  Dynamic Host Configuration Protocol for IPv6 (DHCPv6),ADDRESSES,IPv6 Adoption
+RFC 3736 - Stateless Dynamic Host Configuration Protocol (DHCP) Service for IPv6,ADDRESSES,IPv6 Adoption
+RFC 4443 - Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6) Specification,ADDRESSES,IPv6 Adoption
+RFC 5072 - IP Version 6 over PPP,ADDRESSES,IPv6 Adoption
+RFC 2080 - RIPng for IPv6,ADDRESSES,IPv6 Adoption
+Enhanced Interior Gateway Routing Protocol,ADDRESSES,IPv6 Adoption
+"Cisco Systems, Inc",ADDRESSES,IPv6 Adoption
+RFC 2740 - OSPF for IPv6,ADDRESSES,IPv6 Adoption
+RFC 5308 - Routing IPv6 with IS-IS,ADDRESSES,IPv6 Adoption
+RFC 4760 - Multiprotocol Extensions for BGP-4,ADDRESSES,IPv6 Adoption
+RFC 2545 - Use of BGP-4 Multiprotocol Extensions for IPv6 Inter-Domain Routing,ADDRESSES,IPv6 Adoption
+RFC 3596 - DNS Extensions to Support IP Version 6,ADDRESSES,IPv6 Adoption
+RFC 4029 - Scenarios and Analysis for Introducing IPv6 into ISP Networks,ADDRESSES,IPv6 Adoption
+RFC 4291 - IP Version 6 Addressing Architecture,ADDRESSES,IPv6 Adoption
+RFC 4472 - Operational Considerations and Issues with IPv6 DNS,ADDRESSES,IPv6 Adoption
+RFC 4862 - IPv6 Stateless Address Autoconfiguration (SLAAC),ADDRESSES,IPv6 Adoption
+RFC 5952 - A Recommendation for IPv6 Address Text Representation,ADDRESSES,IPv6 Adoption
+RIPE Labs,ADDRESSES,IPv6 Adoption
+The IPv6 Analyser,ADDRESSES,IPv6 Adoption
+World IPv6 Launch Measurements,ADDRESSES,IPv6 Adoption
+IPv6 Statistics - Google,ADDRESSES,IPv6 Adoption
+IPv6 Intelligence,ADDRESSES,IPv6 Adoption
+Paul Weissmann,ADDRESSES,IPv6 Adoption
+SixXS,ADDRESSES,IPv6 Adoption
+Ghost Route Hunter,ADDRESSES,IPv6 Adoption
+Pim van Pelt,ADDRESSES,IPv6 Adoption
+Jeroen Massar,ADDRESSES,IPv6 Adoption
+IPv6 to IPv4 Website Gateway,ADDRESSES,IPv6 Adoption
+Alain Fiocco,ADDRESSES,IPv6 Adoption
+Samita Chakrabarti,ADDRESSES,IPv6 Adoption
+Ulrich Herberg,ADDRESSES,IPv6 Adoption
+Ole Troan,ADDRESSES,IPv6 Adoption
+Bob Hinden,ADDRESSES,IPv6 Adoption
+Fred Baker,ADDRESSES,IPv6 Adoption
+Lee Howard,ADDRESSES,IPv6 Adoption
+Brian Haberman,ADDRESSES,IPv6 Adoption
+Ted Lemon,ADDRESSES,IPv6 Adoption
+Mukom Akong Tamon,ADDRESSES,IPv6 Adoption
+"IETF Working Group, “IPv6 over Networks of Resource-constrained Nodes”",ADDRESSES,IPv6 Adoption
+"IETF Working Group, “IPv6 Maintenance”",ADDRESSES,IPv6 Adoption
+"IETF Working Group, “IPv6 Operations”",ADDRESSES,IPv6 Adoption
+Internet Architecture Board,ADDRESSES,IPv6 Adoption
+Internet Engineering Steering Group,ADDRESSES,IPv6 Adoption
+Address Supporting Organization (ASO),ADDRESSES,IPv6 Adoption
+Number Resource Organization (NRO),ADDRESSES,IPv6 Adoption
+Asia-Pacific Network Information Center (APNIC),ADDRESSES,IPv6 Adoption
+Latin America and Caribbean Network Information Center (LACNIC),ADDRESSES,IPv6 Adoption
+American Registry for Internet Numbers (ARIN),ADDRESSES,IPv6 Adoption
+African Network Information Center (AfriNIC),ADDRESSES,IPv6 Adoption
+Réseaux IP Européens Network Coordination Centre (RIPE NCC),ADDRESSES,IPv6 Adoption
+ITU Telecom World 2014,ADDRESSES,IPv6 Adoption
+International Telecommunication Union,ADDRESSES,IPv6 Adoption
+Global IPv6 and Next Generation Internet Summit 2014,ADDRESSES,IPv6 Adoption
+North American IPv6 Summit 2014,ADDRESSES,IPv6 Adoption
+V6 World Congress,ADDRESSES,IPv6 Adoption
+Global Forum 2014,ADDRESSES,IPv6 Adoption
+ION Belfast,ADDRESSES,IPv6 Adoption
+Afilias,ADDRESSES,IPv6 Adoption
+ION Santiago,ADDRESSES,IPv6 Adoption
+ION Djibouti,ADDRESSES,IPv6 Adoption
+World IPv6 Day,ADDRESSES,IPv6 Adoption
+World IPv6 Launch,ADDRESSES,IPv6 Adoption
+OCCAID,ADDRESSES,IPv6 Adoption
+Global IPv6 Advancement Program,ADDRESSES,IPv6 Adoption
+AFRINIC 21,ADDRESSES,IPv6 Adoption
+APNIC 38,ADDRESSES,IPv6 Adoption
+ARIN 34,ADDRESSES,IPv6 Adoption
+LACNIC 22,ADDRESSES,IPv6 Adoption
+RIPE 69,ADDRESSES,IPv6 Adoption
+Internet Society Hong Kong Chapter,ADDRESSES,IPv6 Adoption
+Internet Society Argentina Chapter,ADDRESSES,IPv6 Adoption
+How to Translate a Gov't IPv6 Mandate Into an Action Plan: Guidance for National IPv6 Task Forces,ADDRESSES,IPv6 Adoption
+"IP Addresses in Cars, Car Manufacturers as Internet Registries? - Another Need for IPv6 Now!",ADDRESSES,IPv6 Adoption
+The Importance of IP Resource Planning in Government ICT Strategic Plans,ADDRESSES,IPv6 Adoption
+How Can Managers Support Their Engineers Deploy IPv6?,ADDRESSES,IPv6 Adoption
+Designing Effective Regulation for IPv6 Adoption,ADDRESSES,IPv6 Adoption
+European Commission,ADDRESSES,Internet Gambling
+European Gaming and Betting Association,ADDRESSES,Internet Gambling
+European Parliament,ADDRESSES,Internet Gambling
+Workshop I: On-line Gambling and Sport Integrity,ADDRESSES,Internet Gambling
+Responsible Gaming Day,ADDRESSES,Internet Gambling
+Conference on the role of authorities in regulating gambling,ADDRESSES,Internet Gambling
+Gambling in the Single Market: One year after the action plan,ADDRESSES,Internet Gambling
+10th European conference on Gambling Studies and Policy Issues,ADDRESSES,Internet Gambling
+QED Conference - Legislating European gambling: what's next on the agenda?,ADDRESSES,Internet Gambling
+6th International Casino Conference,ADDRESSES,Internet Gambling
+European Parliament resolution on online gambling in the Internal Market,ADDRESSES,Internet Gambling
+Commission Recommendation: on principles for the protection of consumers and players of online gambling services and for the prevention of minors from gambling online,ADDRESSES,Internet Gambling
+European Parliament resolution on online gambling in the Internal Market,ADDRESSES,Internet Gambling
+Conclusions on the framework for gambling and betting in the EU member states,ADDRESSES,Internet Gambling
+European Parliament resolution on the integrity of online gambling,ADDRESSES,Internet Gambling
+Manifesto for a sustainable EU Policy for Online Gambling,ADDRESSES,Internet Gambling
+Draft Council of Europe Convention on the Manipulation of Sports Competitions,ADDRESSES,Internet Gambling
+GREEN PAPER On on-line gambling in the Internal Market,ADDRESSES,Internet Gambling
+Towards a comprehensive European framework for online gambling,ADDRESSES,Internet Gambling
+Study Of Gambling Services In The Internal Market Of The European Union,ADDRESSES,Internet Gambling
+Public Consultation on On-line gambling in the Internal Market – Frequently asked questions,ADDRESSES,Internet Gambling
+Council agrees on general approach for consumer rights,ADDRESSES,Internet Gambling
+Taxation of internet gaming and gambling in the European Union,ADDRESSES,Internet Gambling
+Online Gambling: Focusing on integrity and a code of conduct for gambling,ADDRESSES,Internet Gambling
+In the Shadow of Luxembourg: EU and National Developments in the Regulation of Gambling,ADDRESSES,Internet Gambling
+Stakes and states: gambling and the single market,ADDRESSES,Internet Gambling
+Regulatory perspectives on the future of interactive gambling in the internal market,ADDRESSES,Internet Gambling
+"Free movement of services: Commission inquires into restrictions on the provision of certain gambling services in Austria, France and Italy",ADDRESSES,Internet Gambling
+"Fair, honest, safe and fun: the case of cross border gambling in the European Union",ADDRESSES,Internet Gambling
+Charity Lotteries: Turning Chance into Change,ADDRESSES,Internet Gambling
+"Responsible gaming, a Statement of Principles and a Showcase of Best Practice from the European Gaming and Amusement Industry",ADDRESSES,Internet Gambling
+On-line gambling – After the Green Paper which way forward,ADDRESSES,Internet Gambling
+Study on online gambling and adequate measures for the protection of consumers of gambling services,ADDRESSES,Internet Gambling
+European Gaming and Amusement Federation,ADDRESSES,Internet Gambling
+Council of the European Union,ADDRESSES,Internet Gambling
+International Association of Gaming Regulators,ADDRESSES,Internet Gambling
+Gaming Regulators European Forum,ADDRESSES,Internet Gambling
+European Committee for Standardization,ADDRESSES,Internet Gambling
+Remote Gambling Association,ADDRESSES,Internet Gambling
+European Association for the Study of Gambling,ADDRESSES,Internet Gambling
+“Money for nothing”: The case law of the EU Court of Justice on the regulation of gambling,ADDRESSES,Internet Gambling
+In a Bet there is a Fool and a State Monopoly: Are the Odds Stacked against Cross-border Gambling?,ADDRESSES,Internet Gambling
+Belgian Gaming Commission,ADDRESSES,Internet Gambling
+Academy of European Law,ADDRESSES,Internet Gambling
+QED,ADDRESSES,Internet Gambling
+European Casino Association,ADDRESSES,Internet Gambling
+Parliamentary Assembly of the Council of Europe,ADDRESSES,Internet Gambling
+René Van der Paardt,ADDRESSES,Internet Gambling
+European Parliament Directorate-General Internal Policies of the Union,ADDRESSES,Internet Gambling
+Alan Littler,ADDRESSES,Internet Gambling
+Nele Hoekx,ADDRESSES,Internet Gambling
+Cyrille J.C.F. Fijnaut,ADDRESSES,Internet Gambling
+Alain-Laurent Verbeke,ADDRESSES,Internet Gambling
+Vincent Della Sala,ADDRESSES,Internet Gambling
+Association of Charity Lotteries in the European Union,ADDRESSES,Internet Gambling
+European Economic and Social Committee,ADDRESSES,Internet Gambling
+Cristiano Codagnone,ADDRESSES,Internet Gambling
+Francesco Bogliacino,ADDRESSES,Internet Gambling
+Andriy Ivchenko,ADDRESSES,Internet Gambling
+Giuseppe Veltri,ADDRESSES,Internet Gambling
+G. Gaskell,ADDRESSES,Internet Gambling
+Stefaan Van den Bogaert,ADDRESSES,Internet Gambling
+Armin Cuyvers,ADDRESSES,Internet Gambling
+Dimitrios Doukas,ADDRESSES,Internet Gambling
+Réseaux IP Européens Network Coordination Centre,HOSTS,RIPE 59
+Internet Corporation for Assigned Names and Numbers ,HOSTS,DNSSEC for Everybody: A Beginner's Guide
+Internet Society,SUPPORTS,DNSSEC Deployment Initiative
+DNSSEC Deployment Initiative,HOSTS,DNSSEC at FOSE 2012
+White House Office of Management and Budget ,AUTHORED,Securing the Federal Government’s Domain Name System Infrastructure
+Réseaux IP Européens Network Coordination Centre ,AUTHORED,DNSSEC Policy and Practice Statement
+VeriSign,AUTHORED,DNS Security Extensions (Verisign)
+"Cisco Systems, Inc.",AUTHORED,"DNSSEC: The Protocol, Deployment, and a Bit of Development"
+DNS Security and Stability Analysis Working Group ,AUTHORED,DNS Security and Stability Analysis Working Group (DSSA) Final Report
+At-Large Advisory Committee ,ESTABLISHED,DNS Security and Stability Analysis Working Group
+Number Resource Organization ,ESTABLISHED,DNS Security and Stability Analysis Working Group
+Generic Names Supporting Organization ,ESTABLISHED,DNS Security and Stability Analysis Working Group
+Country Code Names Supporting Organization,ESTABLISHED,DNS Security and Stability Analysis Working Group
+Arbor Networks,AUTHORED,Worldwide Infrastructure Security Report
+"Cisco Systems, Inc.",AUTHORED,"DNS Best Practices, Network Protections, and Attack Identification"
+U.S. Department of Homeland Security,AUTHORED,Domain Name System (DNS) Security Reference Architecture
+Hosnieh Rafiee,AUTHORED,Challenges and Solutions for DNS Security in IPv6
+Martin von Löwis,AUTHORED,Challenges and Solutions for DNS Security in IPv6
+Christoph Meinel,AUTHORED,Challenges and Solutions for DNS Security in IPv6
+Amir Herzberg,AUTHORED,Retrofitting Security into Network Protocols: The Case of DNSSEC
+Haya Shulman,AUTHORED,Retrofitting Security into Network Protocols: The Case of DNSSEC
+Dominik Herrmann,AUTHORED,Evaluating the Security of a DNS Query Obfuscation Scheme for Private Web Surfing
+Max Maaß,AUTHORED,Evaluating the Security of a DNS Query Obfuscation Scheme for Private Web Surfing
+Hannes Federrath,AUTHORED,Evaluating the Security of a DNS Query Obfuscation Scheme for Private Web Surfing
+U.S. Department of Commerce ,AUTHORED,"Commerce Department, ICANN and VeriSign Deploy New Technology to Enhance the Security and Stability of the Internet"
+White House Office of Science and Technology Policy ,AUTHORED,A Major Milestone for Internet Security
+Educause,AUTHORED,7 Things You Should Know About DNSSEC
+Hao Yang ,AUTHORED,Deploying Cryptography in Internet-Scale Systems: A Case Study on DNSSEC
+Lixia Zhang,AUTHORED,Deploying Cryptography in Internet-Scale Systems: A Case Study on DNSSEC
+Dan Massey,AUTHORED,Deploying Cryptography in Internet-Scale Systems: A Case Study on DNSSEC
+Eric Osterweil,AUTHORED,Deploying Cryptography in Internet-Scale Systems: A Case Study on DNSSEC
+Olaf Kolkman,AUTHORED,DNSSEC HOWTO: a tutorial in disguise
+IETF Network Working Group,AUTHORED,RFC 2535 - Domain Name System Security Extensions
+IETF Network Working Group,AUTHORED,RFC 3833 - Threat Analysis of the Domain Name System (DNS)
+IETF Network Working Group,AUTHORED,RFC 4033 - DNS Security Introduction and Requirements
+IETF Network Working Group,AUTHORED,RFC 4034 - Resource Records for the DNS Security Extensions
+IETF Network Working Group,AUTHORED,RFC 4035 - Protocol Modifications for the DNS Security Extensions
+IETF Network Working Group,AUTHORED,RFC 4398 - Storing Certificates in the Domain Name System (DNS)
+IETF Network Working Group,AUTHORED,RFC 4470 - Minimally Covering NSEC Records and DNSSEC On-line Signing
+IETF Network Working Group,AUTHORED,RFC 4509 - Use of SHA-256 in DNSSEC Delegation Signer (DS) Resource Records (RRs)
+IETF Network Working Group,AUTHORED,RFC 5155 - DNS Security (DNSSEC) Hashed Authenticated Denial of Existence
+Internet Engineering Task Force,AUTHORED,RFC 6781 - DNSSEC Operational Practices Version 2
+"Google, Inc.",DEVELOPED,Google Public DNS
+Internet Systems Consortium,DEVELOPED,BIND
+NLnet Labs,DEVELOPED,ldns
+Dan Kaminsky,DEVELOPED,Phreebird
+NLnet Labs,DEVELOPED,Unbound
+Internet Assigned Numbers Authority (IANA),OPERATES,Trust Anchors and Keys
+Bill Manning,DEVELOPED,CADR
+Domain Name System Operations Analysis and Research Center (DNS-OARC),MAINTAINS,DLV Test Zones
+.SE The Internet Infrastructure Foundation ,DEVELOPED,DNSCheck
+Jakob Schlyter,DEVELOPED,DNSCheck
+VeriSign Labs,DEVELOPED,DNSSEC Debugger
+Réseaux IP Européens Network Coordination Centre (RIPE NCC),DEVELOPED,DNSSEC Key Management Tools
+NLnet Labs,DEVELOPED,OpenDNSSEC
+European Union Agency for Network and Information Security,AUTHORED,Good Practices Guide for Deploying DNSSEC
+Internet Corporation for Assigned Names and Numbers,MAINTAINS,Root DNSSEC: Information about DNSSEC for the Root Zone
+VeriSign,MAINTAINS,Root DNSSEC: Information about DNSSEC for the Root Zone
+Internet Assigned Numbers Authority,MAINTAINS,Domain Name System Security (DNSSEC) Algorithm Numbers
+Internet Assigned Numbers Authority,MAINTAINS,DNSKEY Flags
+European Union Agency for Network and Information Security (ENISA),AUTHORED,"Resilience Features in Communication Networks: IPv6, DNSSEC and MPLS"
+European Union Agency for Network and Information Security (ENISA),AUTHORED,Study on the Costs of DNSSEC Deployment
+Nominet,AUTHORED,Test Report: DNSSEC Impact on Broadband Routers and Firewalls
+Core Competence,AUTHORED,Test Report: DNSSEC Impact on Broadband Routers and Firewalls
+CP80 Foundation,CREATED,CP80 Internet Zoning Initiative
+Dallas Children's Advocacy Center,HOSTS,Crimes Against Children Conference
+Korea Communications Commission,HOSTS,Seoul Ministerial Meeting on the Future of the Internet Economy
+The Organisation for Economic Co-operation and Development,HOSTS,Seoul Ministerial Meeting on the Future of the Internet Economy
+The Organisation for Economic Co-operation and Development,CONVENED,APEC-OECD Joint Symposium on Initiatives among Member Economies Promoting Safer Internet Environment for Children
+The Organisation for Economic Co-operation and Development,AUTHORED,The Protection of Children Online: Report on risks faced by children online and policies to protect them
+Asia-Pacific Economic Cooperation,CONVENED,APEC-OECD Joint Symposium on Initiatives among Member Economies Promoting Safer Internet Environment for Children
+International Centre for Missing & Exploited Children,ORGANIZED,Campaign Against International Child Abduction
+International Centre for Missing & Exploited Children,CREATED,"“Don’t You Forget About Me"" YouTube Channel"
+The Koons Family Institute,RESEARCH_ARM_OF,International Centre for Missing & Exploited Children
+International Centre for Missing & Exploited Children,AUTHORED,Joint Report on Online Child Protection: Combatting Child Pornography on the Internet
+"""The Woods"" Chartiable Foundation",FUNDS,International Centre for Missing & Exploited Children
+The Eli and Edythe Broad Foundation,FUNDS,International Centre for Missing & Exploited Children
+Microsoft Corporation,FUNDS,International Centre for Missing & Exploited Children
+Microsoft Corporation,DEVELOPED,PhotoDNA
+Microsoft Corporation,DEVELOPED,Microsoft Child Exploitation Tracking System
+Microsoft Corporation,DEVELOPED,Video Image Classification Standard
+Microsoft Corporation,MANAGES,Wanted: Technology Breakthroughs to Fight Child Sex Trafficking
+Microsoft Corporation,ORGANIZED,DCU and Microsoft Research Technology Task Force
+National Center for Missing & Exploited Children,PARTNER_WITH,Campaign Against International Child Abduction
+National Center for Missing & Exploited Children,FOUNDED,URL Initiative
+National Center for Missing & Exploited Children,FOUNDED,PhotoDNA
+National Center for Missing & Exploited Children,FOUNDED,Hash Value Sharing Initiative
+National Center for Missing & Exploited Children,MANAGES,Financial Coalitiion Against Child Pornorgraphy
+National Center for Missing & Exploited Children,OPERATES,CyberTipline
+Yaman Akdeniz,AUTHORED,Internet Child Pornography and the Law: National and International Responses
+Melissa Wells,AUTHORED,Defining Child Pornography: Law Enforcement Dilemmas in Investigations of Internet Child Pornography Possession
+David Finkelhor,AUTHORED,Defining Child Pornography: Law Enforcement Dilemmas in Investigations of Internet Child Pornography Possession
+Janis Wolak,AUTHORED,Defining Child Pornography: Law Enforcement Dilemmas in Investigations of Internet Child Pornography Possession
+Kimberly J. Mitchell,AUTHORED,Defining Child Pornography: Law Enforcement Dilemmas in Investigations of Internet Child Pornography Possession
+Ethel Quayle,AUTHORED,Child Pornography: An Internet Crime
+Max Taylor,AUTHORED,Child Pornography: An Internet Crime
+Bernadette H. Schella,AUTHORED,Cyber child pornography: A review paper of the social and legal issues and remedies—and a proposed technological solution
+Miguel Vargas Martin,AUTHORED,Cyber child pornography: A review paper of the social and legal issues and remedies—and a proposed technological solution
+Patrick C.K. Hung,AUTHORED,Cyber child pornography: A review paper of the social and legal issues and remedies—and a proposed technological solution
+Luis Rueda,AUTHORED,Cyber child pornography: A review paper of the social and legal issues and remedies—and a proposed technological solution
+Australian Institute of Criminology,AUTHORED,A Typology of Online Child Pornography Offending 
+Australian High Tech Crime Centre,AUTHORED,A Typology of Online Child Pornography Offending 
+Cheryl B. Preston,AUTHORED,Children and Internet Pornography: The Nature of the Problem and the Technologies for a Solution
+Scott R. Rasmussen,AUTHORED,Children and Internet Pornography: The Nature of the Problem and the Technologies for a Solution
+Christopher R. Reed,AUTHORED,Children and Internet Pornography: The Nature of the Problem and the Technologies for a Solution
+Philip Jenkins,AUTHORED,Beyond Tolerance: Child Pornography on the Internet
+Andrew G. Oosterbaan,AUTHORED,Report to Law Enforcement Projects Subgroup (LEPSG) on the “Global Symposium for Examining the Relationship Between Online and Offline Offenses and Preventing the Sexual Exploitation of Children”
+Richard Wortley,AUTHORED,Child Pornography On the Internet: New Challenges Require New Ideas
+Stephen Smallbone,AUTHORED,Child Pornography On the Internet: New Challenges Require New Ideas
+Julian Fantino,AUTHORED,Child Pornography On the Internet: New Challenges Require New Ideas
+Cortney Lollar,AUTHORED,Child Pornography and the Restitution Revolution
+Europol,HOSTS,European Cybercrime Centre at Europol
+Dr. Weixiao Wei,AUTHORED,"Online Child Sexual Abuse Content: The development of a comprehensive, transferable international internet notice and takedown system"
+Nominet Trust,FUNDS,"Online Child Sexual Abuse Content: The development of a comprehensive, transferable international internet notice and takedown system"
+Child Rights Connect,MEMBER_OF,Internet Watch Foundation
+Child Rights Connect,AUTHORED,Child Rights Connect Annual Report 2013
+United Nations General Assembly,ADOPTED,"Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography – a protocol to the Convention on the Rights of the Child"
+United Nations General Assembly,ADOPTED,United Nations Convention on the Rights of the Child
+International Criminal Police Organization ,AUTHORED,AG-2011-RES-05 - Combating online sexual exploitation of children through a legislative global engagement strategy
+International Criminal Police Organization ,AUTHORED,AG-2011-RES-08 - Promoting victim-centric management of child abuse material at the national level
+International Criminal Police Organization ,AUTHORED,AG-2010-RES-05 - Child Alert Systems to assist safe recovery of abducted children
+International Criminal Police Organization ,AUTHORED,"AG-2009-RES-05 - Combating sexual exploitation of children on the Internet using all available technical solutions, including access-blocking by INTERPOL member countries"
+International Criminal Police Organization ,AUTHORED,AG-2005-RES-09 - Addressing WebSites selling Child Pornography and Trafficking of Children on Internet
+International Criminal Police Organization ,MEMBER_OF,Virtual Global Task Force
+International Criminal Police Organization ,MEMBER_OF,National Center for Missing & Exploited Children
+International Criminal Police Organization ,HOSTS,29th Meeting of the INTERPOL Specialist Group on Crimes against Children
+World Wide Web Consortium,CREATED,"Platform for Internet Content Selections, Sir Tim Berners Lee"
+United States Department of Homeland Security Immigrations and Customs Enforcement,CREATED,Operation Predator
+Hague Conference on Private International Law,FOUNDED,International Child Abduction Database
+Hague Conference on Private International Law,DEVELOPED,Hague Convention on the Civil Aspects of International Child Abduction
+Friend Media Technology Systems Ltd,DEVELOPED,F1
+Sharon Cooper,MEMBER_OF,National Center for Missing & Exploited Children
+Jeff Koons,FOUNDED,The Koons Family Institute on International Law & Policy
+Children’s Charities’ Coalition on Internet Safety,AUTHORED,Joint Report on Online Child Protection: Combatting Child Pornography on the Internet
+United Nations Committee on the Rights of the Child,MONITORS,"Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography – a protocol to the Convention on the Rights of the Child"
+Internet Watch Foundation,MEMBER_OF,European Financial Coalition
+Internet Watch Foundation,MEMBER_OF,Child Rights Connect
+Internet Watch Foundation,COMMISSIONED,"Online Child Sexual Abuse Content: The development of a comprehensive, transferable international internet notice and takedown system"
+APEC-OECD Joint Symposium on Initiatives among Member Economies Promoting Safer Internet Environment for Children,AUTHORED,Report on the APEC-OECD Joint Symposium on Initiatives Among Member Economies Promoting Safer Internet Environment for Children
+Seoul Ministerial Meeting on the Future of the Internet Economy,AUTHORED,OECD Seoul Declaration for the Future of the Internet Economy
+Virtual Global Task Force,AUTHORED,Recommendations of the Virtual Global Task Force
+Virtual Global Task Force,AUTHORED,Virtual Global Taskforce Environmental Scan 2012
+Virtual Global Task Force,PARTNER_WITH,Project VIC
+InHope,CREATED,Report Illegal Content
+InHope,PROVIDES,Report Illegal Content
+InHope,AUTHORED,GSMA-INHOPE Guide to Establishing an Internet Hotline
+"GSMA Mobile Alliance Against 
+Child Sexual Abuse Content",AUTHORED,GSMA-INHOPE Guide to Establishing an Internet Hotline
+"GSMA Mobile Alliance Against 
+Child Sexual Abuse Content",COLLABORATED_ON,The Financial Coalition Against Child Pornography
+"GSMA Mobile Alliance Against 
+Child Sexual Abuse Content",MEMBER_OF,European Financial Coalition
+The Global Initiative against Transnational Organized Crime,AUTHORED,Stolen innocence: the online exploitation of children
+European Cybercrime Centre at Europol,AUTHORED,"First Year Report, European Cybercrime Center (EC3)"
+Global Alliance against Child Sexual Abuse Online,AUTHORED,Report of the Global Alliance against Child Sexual Abuse Online
+Project VIC,PARTNER_WITH,Virtual Global Task Force
+ForceForge,PARTNER_WITH,Project VIC
+29th Meeting of the INTERPOL Specialist Group on Crimes against Children,PRESENTED,"Child abuse material and the Internet: Cyberpsychology of online child related sex offending, Interpol"
+Yaman Akdeniz,AUTHORED,Chapter 13: Governance of Pornography and Child Pornography on the Global Internet: A Multi-Layered Approach.
+Internet Watch Foundation,AUTHORED,Preliminary analysis into commercial child sexual abuse material distributor accepting Bitcoin payment
+Microsoft,SPONSORED,Wanted: Technology Breakthroughs to Fight Child Sex Trafficking
+Project VIC,DEVELOPED,Video Image Classification Standard
+Hague Conference on Private International Law,ESTABLISHED,International Child Abduction Database
+Friend Media Technology Systems Ltd,DEVELOPED,F1
+The New York Law School Impact Center for Public Interest Law,SPONSORED,Innovations in the Fight Against Human Trafficking Perspectives and Proposals
+Peng Wu,AUTHORED,Transition from IPv4 to IPv6: A state-of-the-art survey
+Manish Karir,AUTHORED,Understanding IPv6 populations in the wild
+Geoff Huston,AUTHORED,Understanding IPv6 populations in the wild
+George Michaelson,AUTHORED,Understanding IPv6 populations in the wild
+Michael Bailey,AUTHORED,Understanding IPv6 populations in the wild
+Lee Howard,AUTHORED,A Comparison of Public Policy Approaches to the IPv4-IPv6 Transition
+Jesse Horton Sowell,AUTHORED,A Comparison of Public Policy Approaches to the IPv4-IPv6 Transition
+Ashish Birla,AUTHORED,Framework to Counter Challenges of Transition to IPv6
+The Organisation for Economic Co-operation and Development,AUTHORED,Internet Addressing: Measuring Deployment of IPv6
+The Organisation for Economic Co-operation and Development,AUTHORED,The Internet in Transition: The State of the Transition to IPv6 in Today's Internet and Measures to Support the Continued Use of IPv4
+The Organisation for Economic Co-operation and Development,AUTHORED,Internet Address Space: Economic Considerations in the Management of IPv4 and in the Deployment of IPv6
+Internet Corporation for Assigned Names and Numbers,AUTHORED,Internet Assigned Numbers Authority (IANA) Policy For Allocation of IPv6 Blocks to Regional Internet Registries
+Internet Corporation for Assigned Names and Numbers,AUTHORED,Internet Assigned Numbers Authority (IANA) Policy for Allocation of ASN Blocks to Regional Internet Registries
+Internet Corporation for Assigned Names and Numbers,AUTHORED,Global Policy for Post Exhaustion IPv4 Allocation Mechanisms by the IANA
+Internet Corporation for Assigned Names and Numbers,AUTHORED,ICP-2: Criteria for Establishment of New Regional Internet Registries
+"Cisco Systems, Inc",AUTHORED,Enhanced Interior Gateway Routing Protocol
+Google,DEVELOPED,IPv6 Statistics - Google
+Paul Weissmann,AUTHORED,IPv6 Intelligence
+SixXS,DEVELOPED,Ghost Route Hunter
+SixXS,DEVELOPED,IPv6 to IPv4 Website Gateway
+Pim van Pelt,LEADS,SixXS
+Jeroen Massar,LEADS,SixXS
+Alain Fiocco,LEADS,"Cisco Systems, Inc"
+Samita Chakrabarti,LEADS,"IETF Working Group, “IPv6 over Networks of Resource-constrained Nodes”"
+Ulrich Herberg,LEADS,"IETF Working Group, “IPv6 over Networks of Resource-constrained Nodes”"
+Ole Troan,LEADS,"IETF Working Group, “IPv6 Maintenance”"
+Bob Hinden,LEADS,"IETF Working Group, “IPv6 Maintenance”"
+Fred Baker,LEADS,"IETF Working Group, “IPv6 Operations”"
+Lee Howard,LEADS,"IETF Working Group, “IPv6 Operations”"
+Brian Haberman,LEADS,Internet Engineering Task Force (IETF)
+Ted Lemon,LEADS,Internet Engineering Task Force (IETF)
+Mukom Akong Tamon,AUTHORED,How to Translate a Gov't IPv6 Mandate Into an Action Plan: Guidance for National IPv6 Task Forces
+Mukom Akong Tamon,AUTHORED,IP Addresses in Cars; Car Manufacturers as Internet Registries? - Another Need for IPv6 Now!
+Mukom Akong Tamon,AUTHORED,"The Importance of IP Resource Planning in Government ICT Strategic Plans, How Can Managers Support Their Engineers Deploy IPv6?"
+Mukom Akong Tamon,AUTHORED,Designing Effective Regulation for IPv6 Adoption
+Internet Engineering Task Force,AUTHORED,Operational Guidance for IPv6 Deployment in IPv4 Sites Using the Intra-Site Automatic Tunnel Addressing Protocol (ISATAP)
+Internet Engineering Task Force,AUTHORED,RFC 6180 - Guidelines for Using IPv6 Transition Mechanisms during IPv6 Deployment
+Internet Engineering Task Force,AUTHORED,RFC 3315 - Dynamic Host Configuration Protocol for IPv6 (DHCPv6)
+Internet Engineering Task Force,AUTHORED,RFC 3736 - Stateless Dynamic Host Configuration Protocol (DHCP) Service for IPv6
+Internet Engineering Task Force,AUTHORED,RFC 4443 - Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6) Specification
+Internet Engineering Task Force,AUTHORED,RFC 5072 - IP Version 6 over PPP
+Internet Engineering Task Force,AUTHORED,RFC 2080 - RIPng for IPv6
+Internet Engineering Task Force,AUTHORED,RFC 2740 - OSPF for IPv6
+Internet Engineering Task Force,AUTHORED,RFC 5308 - Routing IPv6 with IS-IS
+Internet Engineering Task Force,AUTHORED,RFC 4760 - Multiprotocol Extensions for BGP-4
+Internet Engineering Task Force,AUTHORED,RFC 2545 - Use of BGP-4 Multiprotocol Extensions for IPv6 Inter-Domain Routing
+Internet Engineering Task Force,AUTHORED,RFC 3596 - DNS Extensions to Support IP Version 6
+Internet Engineering Task Force,AUTHORED,RFC 4029 - Scenarios and Analysis for Introducing IPv6 into ISP Networks
+Internet Engineering Task Force,AUTHORED,RFC 4291 - IP Version 6 Addressing Architecture
+Internet Engineering Task Force,AUTHORED,RFC 4472 - Operational Considerations and Issues with IPv6 DNS
+Internet Engineering Task Force,AUTHORED,RFC 4862 - IPv6 Stateless Address Autoconfiguration (SLAAC)
+Internet Engineering Task Force,AUTHORED,RFC 5952 - A Recommendation for IPv6 Address Text Representation
+Internet Architecture Board,OVERSEES,Internet Engineering Task Force
+Internet Engineering Steering Group,MANAGES,Internet Engineering Task Force
+Address Supporting Organization,ADVISES,Internet Corporation for Assigned Names and Numbers
+Number Resource Organization,COORDINATES,Asia-Pacific Network Information Center 
+Number Resource Organization,COORDINATES,Latin America and Caribbean Network Information Center
+Number Resource Organization,COORDINATES,American Registry for Internet Numbers
+Number Resource Organization,COORDINATES,African Network Information Center
+Number Resource Organization,COORDINATES,Réseaux IP Européens Network Coordination Centre
+Asia-Pacific Network Information Center ,HOSTED,APNIC 38
+Latin America and Caribbean Network Information Center ,HOSTED,LACNIC 22
+American Registry for Internet Numbers,HOSTED,ARIN 34
+African Network Information Center,HOSTED,AFRINIC 21
+Réseaux IP Européens Network Coordination Centre,HOSTED,RIPE 69
+Réseaux IP Européens Network Coordination Centre,AUTHORED,IPv6 Address Allocation and Assignment Policy
+Réseaux IP Européens Network Coordination Centre,DEVELOPED,RIPE Labs
+Réseaux IP Européens Network Coordination Centre,DEVELOPED,The IPv6 Analyser
+Internet Society,DEVELOPED,World IPv6 Launch Measurements
+Internet Society,HOSTS,ION Belfast
+Internet Society,HOSTS,ION Santiago
+Internet Society,HOSTS,ION Djibouti
+Internet Society,ORGANIZED,World IPv6 Launch
+International Telecommunication Union,ORGANIZED,ITU Telecom World 2014
+Afilias,SPONSORED,ION Belfast
+OCCAID,HOSTED,Global IPv6 Advancement Program
+Internet Society Hong Kong Chapter,AUTHORED,IPv6 Consumer Guide: All About IPv6
+Internet Society Argentina Chapter,AUTHORED,IPv6 For All: A Guide for IPv6 Usage and Application in Different Environments
+European Commission Directorate General Internal Market and Services,HOSTED,Workshop I: On-line Gambling and Sport Integrity
+European Gaming and Betting Association,HOSTED,Responsible Gaming Day
+European Commission,HOSTED,Conference on the role of authorities in regulating gambling
+Belgian Gaming Commission,HOSTED,Conference on the role of authorities in regulating gambling
+Academy of European Law,HOSTED,Gambling in the Single Market: One year after the action plan
+European Association for the Study of Gambling,HOSTED,10th European conference on Gambling Studies and Policy Issues
+QED,HOSTED,QED Conference - Legislating European gambling: what's next on the agenda?
+European Casino Association,HOSTED,6th International Casino Conference
+European Parliament,AUTHORED,European Parliament resolution on online gambling in the Internal Market
+European Commission,ADOPTED,Commission Recommendation: on principles for the protection of consumers and players of online gambling services and for the prevention of minors from gambling online
+European Parliament,AUTHORED,European Parliament resolution on online gambling in the Internal Market
+Council of the European Union,ADOPTED,Conclusions on the framework for gambling and betting in the EU member states
+European Parliament,AUTHORED,European Parliament resolution on the integrity of online gambling
+European Gaming and Betting Association,AUTHORED,Manifesto for a sustainable EU Policy for Online Gambling
+Parliamentary Assembly of the Council of Europe,AUTHORED,Draft Council of Europe Convention on the Manipulation of Sports Competitions
+European Commission,AUTHORED,GREEN PAPER On on-line gambling in the Internal Market
+European Commission,AUTHORED,Towards a comprehensive European framework for online gambling
+European Commission,AUTHORED,Study Of Gambling Services In The Internal Market Of The European Union
+European Commission,AUTHORED,Public Consultation on On-line gambling in the Internal Market – Frequently asked questions
+Council of the European Union,AUTHORED,Council agrees on general approach for consumer rights
+René Van der Paardt,AUTHORED,Taxation of internet gaming and gambling in the European Union
+European Parliament Directorate-General Internal Policies of the Union,AUTHORED,Online Gambling: Focusing on integrity and a code of conduct for gambling
+Alan Littler,EDITED,In the Shadow of Luxembourg: EU and National Developments in the Regulation of Gambling
+Nele Hoekx,AUTHORED,In the Shadow of Luxembourg: EU and National Developments in the Regulation of Gambling
+Cyrille J.C.F. Fijnaut,AUTHORED,In the Shadow of Luxembourg: EU and National Developments in the Regulation of Gambling
+Alain-Laurent Verbeke,AUTHORED,In the Shadow of Luxembourg: EU and National Developments in the Regulation of Gambling
+Vincent Della Sala,AUTHORED,Stakes and states: gambling and the single market
+Alan Littler,AUTHORED,Regulatory perspectives on the future of interactive gambling in the internal market
+European Commission,AUTHORED,"Free movement of services: Commission inquires into restrictions on the provision of certain gambling services in Austria, France and Italy"
+Remote Gambling Association,AUTHORED,"Fair, honest, safe and fun: the case of cross border gambling in the European Union"
+Association of Charity Lotteries in the European Union,AUTHORED,Charity Lotteries: Turning Chance into Change
+European Gaming and Amusement Federation,AUTHORED,"Responsible gaming, a Statement of Principles and a Showcase of Best Practice from the European Gaming and Amusement Industry"
+European Economic and Social Committee,AUTHORED,On-line gambling – After the Green Paper which way forward
+C. Codagnone,AUTHORED,Study on online gambling and adequate measures for the protection of consumers of gambling services
+F. Bogliacino,AUTHORED,Study on online gambling and adequate measures for the protection of consumers of gambling services
+A. Ivchenko,AUTHORED,Study on online gambling and adequate measures for the protection of consumers of gambling services
+G. Veltri,AUTHORED,Study on online gambling and adequate measures for the protection of consumers of gambling services
+G. Gaskell,AUTHORED,Study on online gambling and adequate measures for the protection of consumers of gambling services
+Stefaan Van den Bogaert,AUTHORED,“Money for nothing”: The case law of the EU Court of Justice on the regulation of gambling
+Armin Cuyvers,AUTHORED,“Money for nothing”: The case law of the EU Court of Justice on the regulation of gambling
+Dimitrios Doukas,AUTHORED,In a Bet there is a Fool and a State Monopoly: Are the Odds Stacked against Cross-border Gambling?
+Helen Clark,ADMINISTRATES,United Nations Development Programme
+Alliance for Affordable Internet,AUTHORED,A4AI Affordability Report
+"Access
+",AUTHORED,The TelCo Action Plan
+Information Technology & Innovation Foundation,AUTHORED,"International Broadband Quality: How’s that Policy Working? 
+"
+The Berkman Center,AUTHORED,"Next Generation Connectivity: A Review of broadband Internet transitions and policy from around the world.
+"
+International Telecommunications Union,AUTHORED,"“Planning for Progress - Why National Broadband Plans Matter” ,
+"
+"Cisco Systems, Inc",AUTHORED,"“Planning for Progress - Why National Broadband Plans Matter” ,
+"
+The Broadband Commission for Digital Development,AUTHORED,"“Planning for Progress - Why National Broadband Plans Matter” ,
+"
+The World Bank,AUTHORED,Information and Communications for Development 2009: Extending Reach and Increasing Impact
+Sonia Jorge,AUTHORED,"National Broadband Plans Show a Diversity of Methods but a Unity of Purpose
+"
+"Cisco Systems, Inc",AUTHORED,"World Economic Forum Global Information Technology Report 2013, Chapter 1.3 by Cisco."
+The Organisation for Economic Co-operation and Development,AUTHORED,Universal Service Policies in the Context of National Broadband Plans
+International Telecommunications Union,AUTHORED,Measuring the Information Society
+Doyle Gallegos ,AUTHORED,Partnerships for Broadband: Innovative public private partnerships will support the expansion of broadband networks
+Global Information and Communication Technologies (GICT) Department World Bank,AUTHORED,"Building Broadband: Strategies and Policies for the Developing World
+"
+International Telecommunications Union,AUTHORED,Confronting the Crisis: ICT Plans for Economic Growth
+International Telecommunications Union,AUTHORED,"World Telecommunications Development Report: Reinventing Telecoms 
+"
+USAID,CREATED,Global Broadband and Innovations 
+Net Hope,CREATED,Global Broadband and Innovations 
+International Telecommunications Union,CREATED,The Broadband Commission for Digital Development
+"United Nations Educational, Scientific and Cultural Organization",CREATED,The Broadband Commission for Digital Development
+Wireless Broadband Alliance,HOSTED,"Wi-Fi Global Congress, WBA Wi-Fi Industry Awards
+"
+Wireless Broadband Alliance,HOSTED,WBA Wi-Fi Industry Awards
+International Telecommunications Union,HOSTED,Broadband Leadership Summit
+The Broadband Commission for Digital Development,HOSTED,Broadband Leadership Summit
+International Telecommunications Union,HOSTED,"World Telecommunication Policy Forum
+"
+Suvi Linden,IS_ENVOY,Broadband Commission for Digital Development
+World Summit on the Information Society in Tunis,LAUNCHED,Telecentre.org
+Robert D. Atkinson,LEADS,Information Technology and Innovation Foundation
+Dr. Hamadoun I. Toure ,LEADS,International Telecommunications Union
+John Chambers,LEADS,"Cisco Systems, Inc"
+"Susan Crawford
+",LEADS,Berkman Center
+"Susan Crawford
+",LEADS,Telecommunications Equality Project
+Hans Vestberg,LEADS,Ericson Group
+Irina Bokova ,LEADS,"United Nations Educational, Scientific and Cultural Organization"
+Reza Jafari,LEADS,e-Development International 
